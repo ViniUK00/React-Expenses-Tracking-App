@@ -4,7 +4,7 @@ This is a hands-on project from the Udemy course - Beginner React. Create a Expe
 # Demo
 
 <div align="center">
-  <img src="react-expenses-counter.gif" />
+  <img src="demo.gif" />
 </div>
 
 You can run the demo on your local machine, please follow the instructions in [Getting Started](#getting-started).
