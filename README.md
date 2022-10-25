@@ -1,3 +1,10 @@
+<div align="right">
+  <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
+  <a href="https://github.com/Hsins/udemy_React-Movie-App/blob/master/LICENSE" alt="License">
+    <img src="https://img.shields.io/github/license/Hsins/udemy_React-Movie-App.svg" />
+  </a>
+</div>
+
 # React-Expenses-Tracking-App
 This is a hands-on project from the Udemy course - Beginner React. Create a Expenses Tracking App App by Maximilian Schwarzmüller.
 
@@ -44,4 +51,6 @@ $ npm run build
 # Run server
 $ npm run server
 ```
+# License
 
+Licensed under the MIT License, Copyright © 2022-present Ervin.
