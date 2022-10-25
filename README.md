@@ -1,7 +1,5 @@
 <div align="right">
   <img src="https://img.shields.io/badge/Completion-100%25-blue.svg" />
-  <a href="https://github.com/Hsins/udemy_React-Movie-App/blob/master/LICENSE" alt="License">
-    <img src="https://img.shields.io/github/license/Hsins/udemy_React-Movie-App.svg" />
   </a>
 </div>
 
