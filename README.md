@@ -49,6 +49,3 @@ $ npm run build
 # Run server
 $ npm run server
 ```
-# License
-
-Licensed under the MIT License, Copyright © 2022-present Ervin.
